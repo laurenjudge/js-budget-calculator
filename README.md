@@ -1,8 +1,4 @@
-***********
-DESCRIPTION: 
-***********
-
-This project calculates the given INCOME and EXPENSES for the current month and year.
+This project calculates the total BUDGET using the given INCOME and EXPENSES for the current month and year.
 
 The TOTAL budget is calculated 
 
