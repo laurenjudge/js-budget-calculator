@@ -18,5 +18,8 @@ The TOTAL budget is calculated
 - Hover over added item to delete
 
 ### View Live
+http://budget-calculator.s3-website-ap-southeast-2.amazonaws.com/
 
-http://budget-app-project.s3-website-ap-southeast-2.amazonaws.com/
+### View Local
+- Clone this repo
+- Open index.html in broswer
